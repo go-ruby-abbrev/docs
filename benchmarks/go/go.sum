@@ -4,3 +4,5 @@ github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3 h1:Kr5v05FTY
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260717061206-761e82f6c6c3/go.mod h1:PgAtItdQBv87Wog0Q7rnbwhqsupDC0pDXDlZgSv6nvA=
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260916090008-ac08b8471830 h1:QfzmoOcfNgEUMX4d3yxHS+/xnujKd3gCnpL/qYknOv8=
 github.com/go-ruby-abbrev/abbrev v0.0.0-20260916090008-ac08b8471830/go.mod h1:PgAtItdQBv87Wog0Q7rnbwhqsupDC0pDXDlZgSv6nvA=
+github.com/go-ruby-abbrev/abbrev v0.0.0-20261010102213-4afde4be814a h1:/10Np5usbIxxeHkrx0RWRNmP4ULQ85FXA1O6WK8UrU0=
+github.com/go-ruby-abbrev/abbrev v0.0.0-20261010102213-4afde4be814a/go.mod h1:RQv1zUNwzmhZl+w+lhq+g3H0IeSoSIEN/CmcNRERIfc=
